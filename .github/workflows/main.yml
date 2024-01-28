@@ -32,7 +32,7 @@ jobs:
           # Artifact name
           name: github-pages
           # A file, directory or wildcard pattern that describes what to upload
-          path: output/*.pdf
+          path: output/resume.pdf
 
   deploy:
     # Add a dependency to the build job
