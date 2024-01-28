@@ -1,100 +1,62 @@
-Johnny Coder
-============
+# Taylor Growden
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> [linkedin.com/in/taylor-growden](https://linkedin.com/in/taylor-growden) • [github.com/tgrowden](https://github.com/tgrowden)\
+> <taylor.growden@gmail.com> • [(646) 726-7819](tel:6467267819)
 
 ----
 
-Education
----------
+## Skills
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+**Technology:** TypeScript • React • Node.js • Redux • PostgreSQL • Tailwind CSS • Cascading Style Sheets (CSS) • HTML5 • Front-End Development • GraphQL • React Native • AWS • Kubernetes • MongoDB
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+**Methodology:** Agile • Feature Planning • Sprint Planning • Feature Spikes • Candidate Interviewing & Technical Screening • Mentoring • Code Reviews
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+## Career Objective
+
+Bringing almost a decade of experience, I am a senior full-stack software engineer with a results-driven approach, emphasizing frontend architecture. My expertise lies in web technologies, particularly in TypeScript and React. Proficient in designing and implementing scalable solutions, I prioritize maintainability to meet business requirements. Leading development teams and fostering collaboration across departments, I consistently deliver high-quality software products. My passion for staying updated with emerging technologies in frontend development fuels innovation. Ready to contribute technical skills and leadership experience, I am eager to play a pivotal role in dynamic projects, helping organizations achieve their goals.
+
+----
+
+## Experience
+
+<!-- | **[H1](https://h1.co) - HealthTech, SaaS Startup** |
+| --- | ---: |
+| **_Senior Software Engineer_** | **February 2021 - January 2024** |
+| **_Software Engineer_** | **December 2018 - February 2021** | -->
+
+**[H1](https://h1.co)** - *HealthTech, SaaS Startup*\
+***Senior Software Engineer***, **February 2021 - January 2024**\
+***Software Engineer***, **December 2018 - February 2021**
+
+* Played a pivotal role in the entire lifecycle of a SAAS product, contributing from initial conceptualization through its successful launch and establishment as a staple in the market
+* Worked cross functionally  with product managers, designers, stakeholders, and other engineers to define, prioritize, and plan features in an ever-changing environment, while also developing those features and seeing them through to completion
+* Worked closely with the design team to develop an internal style guide and component library
+* Lead efforts to transition to a modern GraphQL API gateway
+* Interviewed engineering candidates and was involved in technical screenings and other aspects of the candidate hiring process
+
+
+**[Exclamation Labs](https://provisioniam.com/welcome)** - *Tech leader in Identity Security for Financial Institutions*\
+***Web Developer***, **November 2017 - December 2018**
+
+* Specialized in taking the clients’ specific, complex needs and implementing simple-to-use solutions
+* Worked heavily with both backend and frontend technologies
+* Contributed to developing and maintaining a complex product for external clients
+
+
+**Willetts Technology** - *Software company for Human Service Industry*\
+***Software Developer***, **March 2016 - November 2017**
+
+* Worked on a fully certified, HIPAA compliant electronic medical record
+* Dealt with various client-specific needs from feature development to design refresh
+* Integrated with multiple third-party APIs
+
+
+**Self employed/Contractor**\
+***Web Developer***, **February 2015 - March 2016**
+
+* Maintained relationships with various clients across multiple sectors
+* Developed, deployed, and maintained a variety of marketing sites, ecommerce, and internal tools.

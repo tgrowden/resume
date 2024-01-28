@@ -1,13 +1,13 @@
 % Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
 % Copyright 2014 Mark Szepieniec <http://github.com/mszep>
-% 
+%
 % ConText style for making a resume with pandoc. Inspired by moderncv.
-% 
+%
 % This CSS document is delivered to you under the CC BY-SA 3.0 License.
 % https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
 \startmode[*mkii]
-  \enableregime[utf-8]  
+  \enableregime[utf-8]
   \setupcolors[state=start]
 \stopmode
 $if(mainlang)$
@@ -15,12 +15,13 @@ $if(mainlang)$
 $endif$
 
 \setupcolor[hex]
-\definecolor[titlegrey][h=757575]
-\definecolor[sectioncolor][h=397249]
-\definecolor[rulecolor][h=9cb770]
+\definecolor[titlegrey][h=000000]
+\definecolor[sectioncolor][h=000000]
+\definecolor[rulecolor][h=757575]
+\definecolor[linkcolor][h=0000cc]
 
 % Enable hyperlinks
-\setupinteraction[state=start, color=sectioncolor]
+\setupinteraction[state=start, color=linkcolor]
 
 \setuppapersize [$if(papersize)$$papersize$$else$letter$endif$][$if(papersize)$$papersize$$else$letter$endif$]
 \setuplayout    [width=middle, height=middle,
@@ -34,7 +35,7 @@ $endif$
 
 \setupwhitespace[medium]
 
-\setupblackrules[width=31mm, color=rulecolor]
+\setupblackrules[width=21mm, color=rulecolor]
 
 \setuphead[chapter]      [style=\tfd]
 \setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
@@ -52,7 +53,13 @@ $endif$
 \definedescription
   [description]
   [headstyle=bold, style=normal,
-   location=hanging, width=18mm, distance=14mm, margin=0cm]
+   location=hanging,
+   width=100mm,
+   distance=14mm,
+   margin=0cm,
+   topspace=0mm,
+   bottomspace=0mm
+]
 
 \setupitemize[autointro, packed]    % prevent orphan list intro
 \setupitemize[indentnext=no]
