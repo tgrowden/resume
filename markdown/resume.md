@@ -23,11 +23,6 @@ Bringing almost a decade of experience, I am a senior full-stack software engine
 
 ## Experience
 
-<!-- | **[H1](https://h1.co) - HealthTech, SaaS Startup** |
-| --- | ---: |
-| **_Senior Software Engineer_** | **February 2021 - January 2024** |
-| **_Software Engineer_** | **December 2018 - February 2021** | -->
-
 **[H1](https://h1.co)** - *HealthTech, SaaS Startup*\
 ***Senior Software Engineer***, **February 2021 - January 2024**\
 ***Software Engineer***, **December 2018 - February 2021**
