@@ -2,7 +2,7 @@
 
 ----
 
-> [linkedin.com/in/taylor-growden](https://linkedin.com/in/taylor-growden) • [github.com/tgrowden](https://github.com/tgrowden)\
+> [linkedin.com/in/taylor-growden](https://linkedin.com/in/taylor-growden) • [github.com/tgrowden](https://github.com/tgrowden) • [taylorgrowden.com](https://taylorgrowden.com/)\
 > <taylor.growden@gmail.com> • [(646) 726-7819](tel:6467267819)
 
 ----
