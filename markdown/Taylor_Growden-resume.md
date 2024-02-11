@@ -29,10 +29,11 @@ Bringing almost a decade of experience, I am a senior full-stack software engine
 
 Leading efforts across all layers of product engineering. Working with PMs and designers to understand user needs, solve UI/UX challenges, plan intricate features, and set road maps. Implementing features and improving developer experience as an individual contributor across multiple **React** web applications powered by **GraphQL** and **Node microservices**.
 
+* Regularly completed **technical spikes** and worked as **lead engineer** on projects with teams ranging from 5-10 members
 * Played a pivotal role in the entire lifecycle of the flagship **SAAS** product, contributing from initial conceptualization through its successful launch and establishment as a staple in the market
 * Worked closely with the design team to develop an internal style guide and **React component library**
+* Functioned as a **key problem-solver** across multiple projects in all domains, regularly stepping in to assist, mentor, and bring deliverables over the finish line
 * Lead efforts to transition to a modern **GraphQL** API gateway
-* Functioned as a **key problem-solver** across multiple projects and domains, regularly stepping in to assist, mentor, and bring deliverables over the finish line
 * **Refactored, modernized, and improved legacy code**, including a total rewrite of the complex frontend **Redux store**
 
 
