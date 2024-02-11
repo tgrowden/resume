@@ -27,19 +27,20 @@ Bringing almost a decade of experience, I am a senior full-stack software engine
 ***Senior Software Engineer***, **February 2021 - January 2024**\
 ***Software Engineer***, **December 2018 - February 2021**
 
-Leading efforts across all layers of product engineering. Working with PMs and designers to understand user needs, solve UI/UX challenges, plan intricate features, and set road maps. Implementing features and improving developer experience as an individual contributor across multiple **React web** applications powered by **GraphQL** and **Node microservices**.
+Leading efforts across all layers of product engineering. Working with PMs and designers to understand user needs, solve UI/UX challenges, plan intricate features, and set road maps. Implementing features and improving developer experience as an individual contributor across multiple **React** web applications powered by **GraphQL** and **Node microservices**.
 
-* Played a pivotal role in the entire lifecycle of a **SAAS product**, contributing from initial conceptualization through its successful launch and establishment as a staple in the market
-* Collaborated closely with the design team to develop an internal style guide and **component library**
-* Lead efforts to transition to a modern GraphQL API gateway
-* Interviewed engineering candidates and was involved in technical screenings and other aspects of the candidate hiring process
+* Played a pivotal role in the entire lifecycle of the flagship **SAAS** product, contributing from initial conceptualization through its successful launch and establishment as a staple in the market
+* Worked closely with the design team to develop an internal style guide and **React component library**
+* Lead efforts to transition to a modern **GraphQL** API gateway
+* Functioned as a **key problem-solver** across multiple projects and domains, regularly stepping in to assist, mentor, and bring deliverables over the finish line
+* **Refactored, modernized, and improved legacy code**, including a total rewrite of the complex frontend **Redux store**
 
 
 **[Exclamation Labs](https://provisioniam.com/welcome)** - *Tech leader in Identity Security for Financial Institutions*\
 ***Web Developer***, **November 2017 - December 2018**
 
 * Specialized in taking the clients’ specific, complex needs and implementing simple-to-use solutions
-* Worked heavily with both backend and frontend technologies
+* Worked heavily with both backend and frontend technologies including **React**, **TypeScript**, **Java Spring**, and **MS SQL**.
 * Contributed to developing and maintaining a complex product for external clients
 
 
