@@ -47,7 +47,7 @@ Leading efforts across all layers of product engineering. Working with PMs and d
 **Willetts Technology** - *Software company for Human Service Industry*\
 ***Software Developer***, **March 2016 - November 2017**
 
-* Worked on a fully certified, HIPAA compliant electronic medical record
+* Worked on a fully certified, **HIPAA compliant** electronic medical record
 * Dealt with various client-specific needs from feature development to design refresh
 * Integrated with multiple third-party APIs
 
