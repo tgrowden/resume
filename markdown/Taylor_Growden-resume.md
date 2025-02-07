@@ -40,6 +40,7 @@ Contributing to code excellence and improving internal processes. Working closel
 Leading efforts across all layers of product engineering. Working with PMs and designers to understand user needs, solve UI/UX challenges, plan intricate features, and set road maps. Implementing features and improving developer experience as an individual contributor across multiple **React** + **TypeScript** web applications powered by **Postgres**, **Redis**, **ElasticSearch**, and **Node microservices** via a **GraphQL** API.
 
 * Regularly completed **technical spikes** and worked as **lead engineer** on projects with teams ranging from 5-10 members
+* Configured CI/CD pipelines for multiple frontend and backend builds
 * Played a pivotal role in the entire lifecycle of the flagship **SAAS** product, contributing from initial conceptualization through its successful launch and establishment as a staple in the market
 * Worked closely with the design team to develop an internal style guide and **TypeScript** + **React component library** using **Tailwind CSS** for styling
 * Functioned as a **key problem-solver** across multiple projects in all domains, regularly stepping in to assist, mentor, and bring deliverables over the finish line
