@@ -23,6 +23,16 @@ Bringing almost a decade of experience, I am a senior full-stack software engine
 
 ## Experience
 
+**[EnviroSpark](https://envirosparkenergy.com/)** - *EV Charging*\
+***Senior Software Engineer***, **August 2024 - October 2024**
+
+Contributing to code excellence and improving internal processes. Working closely with design to establish a cohesive design language.
+
+* Improved code quality and reduced frontend runtime errors by implementing clear code-quality rules.
+* Led efforts to architect and implement new API endpoints for data ingestion.
+* Improved CI process by decreasing build-time and adding code-quality checks.
+
+
 **[H1](https://h1.co)** - *HealthTech, SaaS Startup*\
 ***Senior Software Engineer***, **February 2021 - January 2024**\
 ***Software Engineer***, **December 2018 - February 2021**
